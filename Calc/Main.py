@@ -1,4 +1,4 @@
-from math_function import add
+from math_function import add, multiplication, division
 
 
 def main():
